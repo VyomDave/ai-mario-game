@@ -1,0 +1,21 @@
+body{
+    background-image:url("background.jpg");
+}
+.heading{
+    width: 100%;
+    text-align: left;
+}
+.heading h3{
+    display: inline;
+}
+.heading button{
+    float: right;
+  
+}
+#big_image{
+    width: 100%;
+}
+.btn{
+    font-size: 22px;
+    border: 1px solid white;
+}
