@@ -1,0 +1,41 @@
+body{
+    background-image:url("background.jpg");
+}
+.heading{
+    width: 100%;
+    text-align: left;
+}
+.heading h3{
+    display: inline;
+}
+.heading button{
+    float: right;
+  
+}
+#big_image{
+    width: 100%;
+}
+.btn{
+    font-size: 22px;
+    border: 1px solid white;
+}
+#footer{
+    background-color:yellowgreen;
+    line-height: 2;
+    margin: 0;
+    color: white;
+}
+.img{
+  width: 50%;
+  float: none;
+}
+.modal-dialog{
+    width: 60%;
+
+}
+video{
+    background-image:url("game_console.png") ;
+    background-size: cover;
+    background-position: center;
+    padding: 16px;
+}
